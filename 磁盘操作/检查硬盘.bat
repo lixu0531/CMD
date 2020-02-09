@@ -1,0 +1,1 @@
+chkdsk d: /f

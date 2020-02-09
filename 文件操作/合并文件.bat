@@ -1,0 +1,1 @@
+copy /b  D:\aa\*.aa  D:\bb\bb.aa
